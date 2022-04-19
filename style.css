@@ -1,0 +1,17 @@
+﻿body {
+	background-image: url("Blue Lace 16.bmp");
+	background-repeat: repeat;
+}
+.photoshop {
+	text-align: center;
+	background: rgb(0, 0, 0, 0.25);
+	padding-right: 16px;
+	padding-left: 16px;
+	height:90%;
+}
+
+.photoshop-link {
+	font-family: 'Comic Sans MS';
+	font-size: xx-large;
+	color: orange;
+}
