@@ -1,0 +1,37 @@
+﻿body {
+	background-image: url("Soap Bubbles.bmp");
+	background-repeat: repeat;
+}
+
+.header-text {
+	font-family: "Comic Sans MS";
+	font-size: xx-large;
+	padding: 16px;
+	color: yellow;
+}
+
+.header-image {
+	width: 32px;
+}
+
+.header {
+	position: fixed;
+	margin-top: 0px;
+	overflow: hidden;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100px;
+	background-image: url("photoshop.png");
+	background-repeat: repeat-x;
+}
+
+.filename-text {
+	margin-left: 64px;
+	font-size: 16px;
+	color: white;
+}
+
+.content {
+	text-align:center;
+}
